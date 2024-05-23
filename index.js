@@ -32,7 +32,7 @@ let y = 10;
 let c = 11;
 let sum = x + y + c;
 console.log(sum);
-// 7. Declare a variable named 'option' and assign it a string value of '1', '2', or '3'. Then declare a variable named 'decision' and assign it a different string value based on the value of 'option'. The options are '1', '2', and '3'. If 'option' is none of these, 'decision' should be 'Invalid option'.
+// 7. Declare a variablegit  named 'option' and assign it a string value of '1', '2', or '3'. Then declare a variable named 'decision' and assign it a different string value based on the value of 'option'. The options are '1', '2', and '3'. If 'option' is none of these, 'decision' should be 'Invalid option'.
 // 8. Declare a variable named 'isAdult' using the ternary operator. T'he variable should hold a string value of 'Adult' if 'age' is 18 or over, and 'Not Adult' if 'age' is under 18.
 let age = 18;
 let isAdult = (age >= 18) ? 'you are an adult' : 'you are not an adult';
